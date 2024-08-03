@@ -1,0 +1,4 @@
+predibase==2024.7.2
+datasets==2.20.0
+tokenizers==0.19.1
+python-dotenv==1.0.1
