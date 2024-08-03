@@ -8,8 +8,7 @@
 
 ## Training
 
-- fine-tune에 사용하기 적절한 데이터 인지는 모르겠지만 테스트 용도로 아래 데이터 사용하였습니다.
-
+- fine-tune에 사용하기 적절한 데이터 인지는 모르겠지만 테스트 용도로 fine-tune할때 사용한 Credit입니다.
 - 사용된 Credit: $0.87 USD 
     - Quantity: 1.734
     - Unit Price: $0.50 USD
